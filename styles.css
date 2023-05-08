@@ -4,15 +4,15 @@ table{
     border-collapse: collapse;
 }
 
-td{
+td,th{
     border:1px solid black;
 }
 
-tbody td{
+tbody td,{
     text-align:right;
 }
 
-.part{
+.part, th{
     text-align:left;
 }
 
