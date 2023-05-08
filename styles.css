@@ -1,2 +1,32 @@
+table{
+    width:100%;
+    border:1px solid black;
+    border-collapse: collapse;
+}
 
-/* Your CSS Code here. */
+td{
+    border:1px solid black;
+}
+
+tbody td{
+    text-align:right;
+}
+
+.part{
+    text-align:left;
+}
+
+thead{
+    background-color: rgb(192,80,77);
+    color: white;
+}
+.waist{
+    background-color: rgb(218,150,148);
+    color: white;
+}
+.chest{
+    background-color: rgb(242,220,219);
+}
+.sleeve{
+   background-color: rgb(217,217,217); 
+}
